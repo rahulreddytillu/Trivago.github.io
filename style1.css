@@ -1,0 +1,146 @@
+.menu{
+    width: 2500px;
+    margin: -9px -9px 10px 10px;
+    text-align: right;
+    border: 1px grey solid;
+    opacity: 1;
+   float: right;
+}
+.pic{
+    margin: 32px 10px 10px 150px;
+}
+.herotitle{
+    opacity: 0.82;
+    color: black;
+    font-family:serif;
+    font-size: 30;
+    margin: -100px 10px 107px 328px;
+}
+.herosubtitle{
+    opacity: 0.7;
+    font-size: 20;
+    margin: -101px 10px 10px 328px;
+}
+.srh{
+    margin: 10px 10px 10px 154px;
+    width: 337px;
+    height: 45px;
+}
+.mim{
+    text-align: center;
+    color: grey;
+    margin: -56px 10px 10px 498px;
+    border: 1px grey solid;
+    width: 365px;
+    height: 45px;
+}
+.kp{
+    text-align: center;
+    color: grey;
+    margin: -58px 10px 0px 873px;
+    border: 1px grey solid;
+     width: 165px;
+    height: 45px;
+}
+.button {
+  margin: -47px 10px 10px 1050px;
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+#par{
+    color: blue;
+    font-size: 25px;
+    margin: 38px 10px 10px 107px;
+}
+#papa1{
+    color: blue;
+    margin: 25px 10px 10px 108px;
+}
+#papa2{
+    color: blue;
+    margin: -28px 10px 10px 191px;
+}
+.one{
+    margin: 1px 2px 3px 109px;
+}
+
+.two{
+  margin: -5px -2px 3px -5px;
+}
+
+.three{
+   margin: -4px 0px 3px -1px;
+}
+
+.four{
+    margin: -265px 0px 0px 886px;
+}
+#five{
+    font-size: 25px;
+   margin: -3px 10px 10px 109px;
+}
+#six{
+    font-size: 25px;
+    margin: -39px 10px 10px 373px;
+}
+#seven{
+    font-size: 25px;
+   margin: -39px 10px 10px 634px;
+}
+#eight{
+    font-size: 25px;
+    margin: -39px 10px 10px 901px;
+}
+#nine{
+    font-size: 18px;
+   margin: -8px 10px 10px 109px;
+}
+#ten{
+    font-size: 18px;
+    margin: -32px 10px 10px 373px;
+}
+#eleven{
+    font-size: 18px;
+   margin: -32px 10px 10px 636px;
+}
+#twelve{
+    font-size: 18px;
+    margin: -32px 10px 10px 900px;
+}
+.topcities h3{
+    color: blue;
+    margin: 67px -15px -46px 267px;
+}
+.paragraph{
+    margin: 55px 633px 10px 111px;
+}
+.pal h4{
+    color: blue;
+    margin: -145px 10px 10px 939px;
+}
+.paragrph{
+    margin: 8px 11px 10px 747px;    
+}
+.paal h5{
+    font-size: 16.5px;
+    color: blue;
+ margin: 31px 10px 10px 233px;
+}
+.paragrap{
+     margin: 15px 632px 4px 110px;
+}
+.pall h6{
+    font-size: 16.5px;
+    color: blue;
+    margin: -129px 10px 10px 1006px;
+}
+.paragra{
+    margin: 10px 10px 10px 747px;
+}
